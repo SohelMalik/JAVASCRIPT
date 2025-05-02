@@ -69,6 +69,18 @@ const {courseInstructor: instructor} = course  //:instructor karne se ab hum use
 
 console.log(instructor);
 
+// {
+//     "name" : "sohel",
+//     "coursename" : "js in hindi",
+//     "price" : "free"                   //JSON mein key aur value pair dono strings hote hain
+// }
+
+[                                  //API array ke form mein bhi milte hain 
+    {},
+    {},
+    {}
+]
+
 
 
 
