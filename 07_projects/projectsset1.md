@@ -7,7 +7,7 @@
 
 ## project 1
 
-```javascript
+````javascript
 console.log("sohel")
 
 const buttons = document.querySelectorAll('.button')
